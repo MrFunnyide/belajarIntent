@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">belajarIntent</string>
+    <string name="konversi">Konversi</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="selamat_datang_di_activity_konversi">Selamat Datang di Activity Konversi</string>
+</resources>
